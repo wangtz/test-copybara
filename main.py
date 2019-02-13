@@ -1,5 +1,5 @@
 def real_main():
-  test
+  test()
 
 if __name__ == "__main__":
   real_main()
