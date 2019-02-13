@@ -1,5 +1,5 @@
-def real_main()():
+defreal_main():
   test
 
-if __name__ == "__real_main()__":
-  real_main()()
+if __name__ == "__main__":
+ real_main()
