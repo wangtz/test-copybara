@@ -1,4 +1,3 @@
-# real_main() is a function that actually does the work.
 def real_main():
   # This is a just test.
   test()
